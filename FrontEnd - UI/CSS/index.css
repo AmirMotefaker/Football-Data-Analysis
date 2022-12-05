@@ -1,0 +1,135 @@
+*,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+ 
+  background-repeat: no-repeat;
+  background-size: cover;
+ 
+}
+.sel{
+  /* display: block;
+  top:50%;
+  left:50%;
+  transform: translate(-50%,-50%); */
+  font-size: 18px;
+  color: magent;
+  background-color: #efefef;
+  display: block;
+  width:50%;
+  /* height: 45px; */
+  margin-bottom: 15px;
+  border: 1px solid black;
+  padding: 10px;
+  margin-left: 50px
+}
+.title {
+  text-align: center;
+  font-size: 38px;
+  font-weight: bolder;
+  color: rgb(51, 43, 43);
+  margin-bottom: 50px;
+  margin-top:20px
+  
+}
+.App{
+  display:flex;
+  justify-Content:center;
+  align-Items:center
+}
+/* .form {
+  width: 100vw;
+  height: 200px;
+  background-color: cadetblue;
+  font-size: 24px;
+  margin-top: 50px;
+} */
+/* .select {
+  font-size: 18px;
+  color: rgb(63, 59, 52);
+  background-color: #efefef;
+  display: block;
+  width: 100%;
+  height: 45px;
+  margin-bottom: 15px;
+  border: 1px solid black;
+  padding: 10px;
+} */
+
+#clear {
+   background-color: rgb(47, 213, 47);
+  color: rgb(24, 123, 24);
+}
+.btn{
+  border: none;
+  padding: 5px 10px;
+  margin: 30px;
+  font-size: 24px;
+  border-radius: 5px;
+}
+#show{
+  border: none;
+  background-color: rgb(24, 123, 24);
+  color: rgb(47, 213, 47);
+  
+}
+#clear:hover {
+  border: none;
+  background-color: rgb(24, 123, 24);
+  color: rgb(47, 213, 47);;
+  padding: 5px 10px;
+}
+#show:hover {
+  border: none;
+  background-color: rgb(47, 213, 47);
+  color: rgb(24, 123, 24);
+  padding: 5px 10px;
+}
+.btn-wrapper {
+  text-align: center;
+}
+label {
+  font-size: 24px;
+  color: rgb(16, 15, 15);
+  font-weight: bolder;
+  width:350px;
+  margin-left: 50px;
+  text-align: right;
+  
+}
+.sec {
+  display: relative;
+  width: 600px;
+  height: 100px;
+  background-color: #cdc7c7;
+}
+.Analysis {
+  width: 620px;
+  height: auto;
+  background-color: #efefef;
+  margin: 50px auto;
+  padding: 10px;
+  border-radius: 5px;
+}
+#gal {
+  width: 576px;
+  height: 432px;
+  background-color: #efefef;
+  font-size: 24px;
+  text-align: center;
+  margin: 50px auto;
+}
+#titr{
+  width: 500px;
+  height:40px;
+  color:white;
+  background-color: darkgreen;
+  text-align: center;
+  margin-left:437px;
+  margin-top:70px;
+  margin-bottom: -40px;
+  display: block;
+}
