@@ -1,3 +1,3 @@
 # EPL-Data for Teams-Players Understat (2014-2019)
 
-This repository holds the relevant understat.com data for all seasons from 2014- present for all the players and teams they play for. The data available is for English Premier League only. As those were the only data I needed for a separate project I am doing. Regardless, if anybody needs data for other leagues as well, raise an issue, I will try to add them as well. Once the season starts I will update the data after each gameweek. 
+This repository holds the relevant understat.com data for all seasons from 2014- the present for all the players and teams they play for. The data available is for English Premier League.
