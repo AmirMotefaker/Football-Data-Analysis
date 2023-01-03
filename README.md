@@ -1,4 +1,4 @@
-# Football Data Analys
+# Football Data Analysi
 Analysis of football data about players and leagues of countries
 
 
