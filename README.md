@@ -6,7 +6,7 @@ Analysis of football data about players and leagues of countries.
 
 - Quantitative Analysis
 
-- Performan Analysis
+- Performance Analysis
 
 - Advanced Metrics: Expected Goals, PPDA, VAEP an more
 
