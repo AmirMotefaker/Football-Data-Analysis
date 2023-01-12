@@ -8,6 +8,6 @@ Analysis of football data about players and leagues of countries.
 
 - Performance Analysis
 
-- Advanced Mics: Expected Goals, PPDA, VAEP an more
+- Advanced Metics: Expected Goals, PPDA, VAEP an more
 
 - Match Events 
