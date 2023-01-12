@@ -4,7 +4,7 @@ Analysis of football data about players and leagues of countries.
 
 ## Data Analytics in football
 
-- Quantitate Analysis
+- Quantitative Analysis
 
 - Performance Analysis
 
